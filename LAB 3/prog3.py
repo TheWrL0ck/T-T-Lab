@@ -1,0 +1,5 @@
+s=input("enter a string: ")
+shype=s.split("-")
+shype.sort()
+str1="-".join(shype)
+print(str1)
